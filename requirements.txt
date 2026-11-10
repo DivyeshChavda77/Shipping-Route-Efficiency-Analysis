@@ -1,0 +1,8 @@
+pandas>=2.3
+numpy
+streamlit>=1.50
+plotly>=6.0
+# Used only by notebook/EDA.ipynb
+matplotlib
+seaborn
+# -e .
